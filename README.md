@@ -1,7 +1,7 @@
 
 
 
-## <div align="center"> Any2Captio: Interpreting Any Condition to Caption for Controllable Video Generation </div>
+## <div align="center"> Any2Caption: Interpreting Any Condition to Caption for Controllable Video Generation </div>
 
 
 ### <div align="center"> Project page: https://sqwu.top/Any2Cap/ </div>
