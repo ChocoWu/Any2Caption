@@ -28,7 +28,7 @@ If you find Any2Caotion is useful and use it in your project, please kindly cite
 ```
 @inproceedings{wu2025Any2Caption,
     title={Any2Caption: Interpreting Any Condition to Caption for Controllable Video Generation},
-    author={Shengqiong Wu and Weicai Ye and Jiahao Wang and Quande Liu and Xintao Wang and Pengfei Wan and Di Zhang and Kun Gai and Shuicheng Yan and Hao Fei and Tat-Seng Chua2},
+    author={Shengqiong Wu and Weicai Ye and Jiahao Wang and Quande Liu and Xintao Wang and Pengfei Wan and Di Zhang and Kun Gai and Shuicheng Yan and Hao Fei and Tat-Seng Chua},
     booktitle={arxiv},
     year={2025}
 }
